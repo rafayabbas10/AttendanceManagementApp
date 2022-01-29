@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>img/1200px-NEDUET_logo.svg.png</file>
+        <file>img/Background.jpg</file>
+        <file>img/Button BG.jpg</file>
+        <file>img/Teacher_loginBG.jpg</file>
+        <file>img/Student_loginBG.jpg</file>
+        <file>img/Admin_PanelBG.jpg</file>
+        <file>img/Teachers PanelBG.jpg</file>
+        <file>img/femaleIcon.png</file>
+        <file>img/WhiteBG.jpg</file>
+        <file>img/StudentPanel BG.jpg</file>
+    </qresource>
+</RCC>
